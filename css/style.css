@@ -2473,6 +2473,11 @@ a.breadcrumb-item:hover {
     color: #242424;
 }
 
+.p-review-num a,
+.p-review-new a {
+    cursor: pointer;
+}
+
 /* Product features */
 .p-features {
     margin: 1rem 0;
